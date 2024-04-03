@@ -265,8 +265,10 @@
         />
       </g>
     </svg>
-    <button @click="generateFace">ANOTHER</button>
-    <button @click="downloadSVGAsPNG">DOWNLOAD</button>
+    <button @click="generateFace">太丑了换一个</button>
+    <button @click="downloadSVGAsPNG">很满意收下了</button>
+    <a href="https://txstc55.github.io/" target="_blank"
+      >原作者在这里</a>
   </div>
 </template>
 
